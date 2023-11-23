@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_animal.html" title=" " alt="" coords="5,31,67,56"/>
+<area shape="rect" id="Node000001" href="$class_dog.html" title=" " alt="" coords="115,5,160,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="81,30,114,21,115,26,82,35"/>
+<area shape="rect" id="Node000002" href="$class_pig.html" title=" " alt="" coords="117,55,158,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="82,52,117,60,116,65,81,57"/>
+</map>

@@ -7,6 +7,11 @@
 
 #include "Animal.h"
 
+/*!
+ * \class Dog
+ * \file Dog.h
+ * \brief The class Dog inherits from Animal
+ */
 class Dog : public Animal {
 public:
     void makeSound() override {

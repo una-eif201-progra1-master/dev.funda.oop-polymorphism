@@ -9,7 +9,12 @@
 #include <string>
 using namespace std;
 
-// Example of Polymorphism
+/*!
+ * \class Animal
+ * \file Animal.h
+ * \brief The class Animal is the base class
+ */
+
 class Animal {
 public:
     virtual void makeSound() {
