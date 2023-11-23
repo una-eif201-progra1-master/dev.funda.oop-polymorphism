@@ -9,8 +9,9 @@
 
 /*!
  * \class Dog
- * \file Dog.h
  * \brief The class Dog inherits from Animal
+ * \file Dog.h
+ * \brief The File Dog.h
  */
 class Dog : public Animal {
 public:

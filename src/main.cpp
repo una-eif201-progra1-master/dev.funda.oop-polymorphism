@@ -43,7 +43,6 @@
  * \file main.cpp
  * \brief The main.cpp file contains the entry point of the program.
  */
-
 int main() {
     system("clear");
     std::cout << "Universidad Nacional de Costa Rica - mikeguzman.dev" << std::endl;
@@ -57,4 +56,5 @@ int main() {
     myDog.makeSound();     // Output: Bark bark
 
     std::cout << std::endl;
-    return 0;}
+    return 0;
+}

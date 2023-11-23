@@ -1,10 +1,10 @@
 <map id="include/Animal.h" name="include/Animal.h">
-<area shape="rect" id="Node000001" title="The class Animal is the base class." alt="" coords="85,5,203,31"/>
-<area shape="rect" id="Node000002" href="$_dog_8h.html" title="The class Dog inherits from Animal." alt="" coords="5,79,107,105"/>
+<area shape="rect" id="Node000001" title="The file Animal.h is the header file of the class Animal." alt="" coords="85,5,203,31"/>
+<area shape="rect" id="Node000002" href="$_dog_8h.html" title="The File Dog.h." alt="" coords="5,79,107,105"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,43,72,81,69,77,116,39"/>
 <area shape="rect" id="Node000003" href="$main_8cpp.html" title="The main.cpp file contains the entry point of the program." alt="" coords="96,153,192,178"/>
 <area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="147,47,147,152,141,152,141,47"/>
-<area shape="rect" id="Node000004" href="$_pig_8h.html" title="The class Pig inherits from Animal." alt="" coords="181,79,278,105"/>
+<area shape="rect" id="Node000004" href="$_pig_8h.html" title="The file Pig.h is the header file of the class Pig." alt="" coords="181,79,278,105"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,39,217,77,213,81,168,43"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,113,131,150,128,154,81,117"/>
 <area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="205,117,160,154,157,150,202,113"/>

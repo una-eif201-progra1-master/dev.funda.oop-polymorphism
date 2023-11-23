@@ -9,8 +9,9 @@
 
 /*!
  * \class Pig
- * \file Pig.h
  * \brief The class Pig inherits from Animal
+ * \file Pig.h
+ * \brief The file Pig.h is the header file of the class Pig
  */
 class Pig : public Animal {
 public:

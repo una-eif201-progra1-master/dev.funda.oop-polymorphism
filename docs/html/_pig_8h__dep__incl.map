@@ -1,5 +1,5 @@
 <map id="include/Pig.h" name="include/Pig.h">
-<area shape="rect" id="Node000001" title="The class Pig inherits from Animal." alt="" coords="5,5,102,31"/>
+<area shape="rect" id="Node000001" title="The file Pig.h is the header file of the class Pig." alt="" coords="5,5,102,31"/>
 <area shape="rect" id="Node000002" href="$main_8cpp.html" title="The main.cpp file contains the entry point of the program." alt="" coords="5,79,102,105"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,46,56,79,51,79,51,46"/>
 </map>
